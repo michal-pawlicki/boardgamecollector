@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">BoardGameCollector</string>
+
+    <string-array name="spinneroptions">
+        <item>Rank ↑</item>
+        <item>Rank ↓</item>
+        <item>Name ↑</item>
+        <item>Name ↓</item>
+        <item>Release date ↑</item>
+        <item>Release date ↓</item>
+    </string-array>
+    <string-array name="spinneroptions2">
+        <item>Name ↑</item>
+        <item>Name ↓</item>
+        <item>Release date ↑</item>
+        <item>Release date ↓</item>
+    </string-array>
+</resources>
